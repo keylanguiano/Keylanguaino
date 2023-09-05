@@ -4,11 +4,11 @@
 ## Encabezado 2
 ### Encabezado 3
 
-** Negrita **
+**Negrita**
 
-* Cursiva *
+*Cursiva*
 
-~~ Tachado ~~
+~~Tachado~~
 
 ### Listas
 - Elemento 1
